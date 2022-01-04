@@ -1,4 +1,4 @@
-# Friendly Parakeet
+# Password Generator
 
 ## Purpose
 Randomly generate a password that meets certain criteria so that employees can create a strong password that provides greater security
@@ -8,7 +8,10 @@ Randomly generate a password that meets certain criteria so that employees can c
 *CSS
 *Javascript
 
-## Website
-https://sumwillrodt.github.io/friendly-parakeet/
+## Github Repository
+https://github.com/sumwillrodt/password-generator.git
 
-![Website Screenshot] (riendly-parakeet-screenshot.png)
+## Deployed Application
+
+
+
