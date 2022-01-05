@@ -9,7 +9,8 @@ Randomly generate a password that meets certain criteria so that employees can c
 * Javascript
 
 ## Github Repository
-[Password Generator Repo](https://github.com/sumwillrodt/password-generator.git)
+[Password Generator ](https://github.com/sumwillrodt/password-generator.git)
 
 ## Deployed Application
-[Password Generator](https://sumwillrodt.github.io/password-generator/
+[link](https://drive.google.com/file/d/1fWiqtB3AAp6lrjgztW6lFa9FmHEobR6F/view?usp=sharing)
+[Password Generator](https://sumwillrodt.github.io/password-generator/)
